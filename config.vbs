@@ -1,0 +1,1 @@
+X=MsgBox("Hej! Vi har lite problem just nu med internet anslutningar och hade önskat att du kunde skriva in din Email Adress för att ansluta till internet! Vi är tacksamma för ditt tålamod! Mvh Administratörerna",0+16,"Internet Anslutning") 
